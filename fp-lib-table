@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "psoc")(type "KiCad")(uri "${KIPRJMOD}/lib/psoc.pretty")(options "")(descr ""))
+  (lib (name "snapeda")(type "KiCad")(uri "${KIPRJMOD}/lib/snapeda.pretty")(options "")(descr ""))
+)
