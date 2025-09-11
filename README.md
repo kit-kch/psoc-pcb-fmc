@@ -37,7 +37,7 @@ For more details, see the [schematic](psoc.pdf):
 
 ## Ordering the PCBs
 
-PCBs were ordered from [aisler](aisler.net) using the [fab.zip](fab.zip) file.
+PCBs were ordered from [aisler.net](https://aisler.net) using the [fab.zip](fab.zip) file.
 Make sure to use a stencil with 150µm thickness for proper FMC connector soldering.
 
 ## More Information and Documentation
