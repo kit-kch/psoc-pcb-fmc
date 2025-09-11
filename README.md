@@ -17,7 +17,7 @@ The following features are provided by the PCB:
 * I2S DAC with output filter networks ([CS4344-CZZR](doc/CS4344-45-48_F2.pdf))
 * [3.5mm audio jack](doc/sj_352x_smt-1779397.pdf) for I2S DAC
 * [3.5mm audio jack](doc/sj_352x_smt-1779397.pdf) directly connected to FMC
-* [MicroSD card connector](doc/MOLEX 472192001_sd.pdf) (1-bit data line only)
+* [MicroSD card connector](doc/MOLEX_472192001_sd.pdf) (1-bit data line only)
 * Power switch network: Power PCB from FMC 12V, power connector or UART usb connector
 * 5V power regulator ([AP62300WU](doc/AP62300_AP62301_AP62300T.pdf))
 * 3.3V power regulator (AMS1117-3.3)
