@@ -43,7 +43,7 @@ Make sure to use a stencil with 150µm thickness for proper FMC connector solder
 ## More Information and Documentation
 
 * Project Website and Documentation: [kch.dev/psoc](https://kch.dev/psoc)
-* Project Schematic: [psoc-pdf](psoc.pdf)
+* Project Schematic: [psoc.pdf](psoc.pdf)
 
 Additional documentation:
 * [FMC Documentation](https://fmchub.github.io/appendix/VITA57_FMC_HPC_LPC_SIGNALS_AND_PINOUT.html)
