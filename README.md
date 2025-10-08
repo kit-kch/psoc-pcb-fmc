@@ -4,7 +4,7 @@ This repository contains schematic, layout and BOM for the PSoC FMC extension PC
 The PCB provides all peripherals that are used to realize the [PSoC Audio Player](https://kch.dev/psoc).
 It is primarily meant to be used with the Zedboard for FPGA prototyping, but it can also serve as a test board for the PSoC ASIC.
 
-![PCB Render Image](render_small.png)
+![PCB Render Image](psoc_pcb.jpg)
 
 The following features are provided by the PCB:
 * 98.304 MHz oscillator ([XLH53V098.304000X](doc/REN_XL_Crystal_Oscillators_Datasheet_DST_20220302-1954959-1.pdf)) for SoC clock
